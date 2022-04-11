@@ -1,0 +1,15 @@
+#Wed Apr 06 09:05:31 CDT 2022
+configuration*?=EE8F292E39EC8E56B4FDF62FFA5B788062FDB65C
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/DriverService.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/Fine.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/test/java/org/kie/kogito/traffic/NativeTrafficProcessIT.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/LicenseValidationRestService.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/TrafficViolationRestClient.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/Driver.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/Violation.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/resources/application.properties=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/TrafficViolationRestService.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/TrafficViolationResponse.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/LicenseValidationService.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/main/java/org/kie/kogito/traffic/LicenseValidationRestClient.java=1647590293000
+/Users/beidaortiz/Downloads/kogito-examples-stable\ 5/kogito-quarkus-examples/process-decisions-rest-quarkus/src/test/java/org/kie/kogito/traffic/TrafficProcessIT.java=1647590293000

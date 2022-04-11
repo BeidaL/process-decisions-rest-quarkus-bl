@@ -1,0 +1,10 @@
+org/kie/kogito/traffic/TrafficViolationRestService.class
+org/kie/kogito/traffic/LicenseValidationService.class
+org/kie/kogito/traffic/Fine.class
+org/kie/kogito/traffic/TrafficViolationResponse.class
+org/kie/kogito/traffic/LicenseValidationRestService.class
+org/kie/kogito/traffic/DriverService.class
+org/kie/kogito/traffic/Driver.class
+org/kie/kogito/traffic/TrafficViolationRestClient.class
+org/kie/kogito/traffic/LicenseValidationRestClient.class
+org/kie/kogito/traffic/Violation.class
